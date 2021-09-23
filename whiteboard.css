@@ -1,0 +1,9 @@
+html, body {
+  margin: 0 auto;
+  background-color: #000000;
+  color: white;
+}
+
+canvas {
+  background-color: rgb(255,255,255)
+}
